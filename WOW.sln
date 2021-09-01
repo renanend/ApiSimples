@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOW.Api", "WOW.Api\WOW.Api.csproj", "{6940FAD2-CB0E-4EE8-88B1-1A10E52C7829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WOW.Api.Webservice", "WOW.Api.Webservice\WOW.Api.Webservice.csproj", "{C12B651D-7709-49DC-80B0-0D4B2300011F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6940FAD2-CB0E-4EE8-88B1-1A10E52C7829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6940FAD2-CB0E-4EE8-88B1-1A10E52C7829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6940FAD2-CB0E-4EE8-88B1-1A10E52C7829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6940FAD2-CB0E-4EE8-88B1-1A10E52C7829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12B651D-7709-49DC-80B0-0D4B2300011F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12B651D-7709-49DC-80B0-0D4B2300011F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12B651D-7709-49DC-80B0-0D4B2300011F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12B651D-7709-49DC-80B0-0D4B2300011F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D84D034A-6F5E-477E-9A32-2F6453829640}
+	EndGlobalSection
+EndGlobal
